@@ -1,0 +1,22 @@
+{
+    "images": [
+      {
+        "id": 1,
+        "src": "https://i.ibb.co/LYhfDXV/img1.png",
+        "alt": "img1",
+        "url": "https://thirsty-goodall-6fd006.netlify.app/"
+      },
+      {
+        "id": 2,
+        "src": "https://i.ibb.co/B47YzPk/img2.png",
+        "alt": "img2",
+        "url": "http://webapp-22.zzz.com.ua/"
+      },
+      {
+        "id": 3,
+        "src": "https://i.ibb.co/yfFdcDx/img3.png",
+        "alt": "img3",
+        "url": "http://webapp-25.zzz.com.ua/about"
+      }
+    ]
+  }
